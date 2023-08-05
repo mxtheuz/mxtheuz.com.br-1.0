@@ -1,6 +1,6 @@
 # Publishing the first version of mxtheuz.com.br
 
-This is the README for the first version of your website, which was developed using only HTML. Below, you will find instructions on how to publish the website using the Nginx web server.
+The first version of your website, which was developed using only HTML. Below, you will find instructions on how to publish the website using the Nginx web server.
 
 ## Prerequisites
 
