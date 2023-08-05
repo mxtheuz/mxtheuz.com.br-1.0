@@ -404,11 +404,6 @@
     font-family: 'Kanit', sans-serif;
     margin-top: 5rem;
 }
-
-/*
-    ADAPTAÇÃO MOBILE
-*/
-
 @media only screen and (min-width: 360px) {
     @media only screen and (max-width: 896px) {
         .header-nav, #skills-image {
